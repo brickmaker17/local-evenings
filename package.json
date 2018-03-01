@@ -13,5 +13,18 @@
     "nodemon": "^1.14.12",
     "path": "^0.12.7",
     "redux-thunk": "^2.2.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brickmaker17/local-evenings.git"
+  },
+  "author": "Luke Barrett",
+  "bugs": {
+    "url": "https://github.com/brickmaker17/local-evenings/issues"
+  },
+  "homepage": "https://github.com/brickmaker17/local-evenings#readme"
 }

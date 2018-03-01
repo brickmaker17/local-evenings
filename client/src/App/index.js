@@ -5,7 +5,7 @@ import Nav from '../Nav';
 import About from '../App/About';
 import Search from './Search';
 import styled from 'styled-components';
-import backImage from './Upload/anthony-delanoix-15928.jpg';
+import backImage from './upload/anthony-delanoix-15928.jpg';
 import './styles/App.css'
 
 const Wrapper = styled.section`
@@ -13,7 +13,7 @@ const Wrapper = styled.section`
     width: 100%;
     background-image: url(${backImage});
     background-repeat: no-repeat;
-    background-size: 1388px 100%;
+    background-size: 100vw 100%;
     background-position: center;
     overscroll-behavior: contain;
 `;
